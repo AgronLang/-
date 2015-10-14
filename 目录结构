@@ -1,0 +1,24 @@
+
+Resource
+	Certificates
+	Images
+Module
+	Base
+		Controller
+		View
+		Item
+		Service
+	Module1
+		………
+	Module2
+		………
+	Common
+		Common1
+		Common2
+		………
+Macro
+Helper
+Addition
+Custom
+Component
+Vender
